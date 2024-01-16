@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+    <title>Sweet Treats Bakery</title>
+</head>
+<body>
+    <nav class="container-fluid">
+        <ul>
+            <li><strong>Sweet Treats Bakery</strong></li>
+        </ul>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Menu</a></li>
+            <li><a href="#" role="button">Contact</a></li>
+        </ul>
+    </nav>
+    <main class="container">
+        <div class="grid">
+            <section>
+                <hgroup>
+                    <h2>Our Specialties</h2>
+                    <h3>Handcrafted Delights</h3>
+                </hgroup>
+                <p>Welcome to Sweet Treats Bakery, where every bite is a memorable experience. Our bakery offers a wide range of freshly baked goods, including our famous pastries, breads, and cakes, all made with love and the finest ingredients.</p>
+                <figure>
+                    <img src="https://source.unsplash.com/featured/?bakery" alt="Bakery Items" />
+                    <figcaption><a href="https://unsplash.com/s/photos/bakery" target="_blank">Image Source</a></figcaption>
+                </figure>
+                <h3>Our Philosophy</h3>
+                <
